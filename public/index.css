@@ -270,6 +270,7 @@ section {
   color: white;
   border-radius: 0.5rem;
   margin: 1.5rem 0;
+  cursor: pointer;
 }
 .contact{
   background-image: linear-gradient(rgb(43, 39, 39),grey,rgb(43, 39, 39));
